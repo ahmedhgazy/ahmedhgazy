@@ -20,8 +20,8 @@ I'm a Software Engineer
 
 ## 🛠️ Software Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,heroku,aws,gcp,azure" />
+<p align="center"> 
+	<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,webstorm,pycharm,postman,photoshop&perline=8" />
 </p>
 
 ## 📈 GitHub Stats
