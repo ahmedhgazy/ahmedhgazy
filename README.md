@@ -15,7 +15,7 @@ I'm a Software Engineer
 ## 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,rxjs,firebase,react,python,php,java,c,cpp,cs,scala,nodejs,express,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,rxjs,firebase,react,python,php,java,c,cpp,cs,scala,nodejs,express,mysql,docker&perline=8" />
 </p>
 
 ## 🛠️ Software Tools
