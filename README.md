@@ -22,8 +22,9 @@ angular,firebase,react,python,java,c,cpp,cs,scala,nodejs,express,mysql,docker&=8
 
 ## 🛠️ Software Tools
 
-<p align="center"> 
-	<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,webstorm,pycharm,postman,photoshop&perline=8" />
+<p align="center">
+    	<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,
+angular,firebase,react,python,java,c,cpp,cs,scala,nodejs,express,mysql,docker&=8" />
 </p>
 
 ## 📈 GitHub Stats
