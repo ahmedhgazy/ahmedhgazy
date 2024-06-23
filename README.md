@@ -24,8 +24,5 @@ I'm a Software Engineer
 	<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,webstorm,pycharm,postman,photoshop&perline=8" />
 </p>
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedhgazy&theme=react&layout=compact"/>
-</p>
+
