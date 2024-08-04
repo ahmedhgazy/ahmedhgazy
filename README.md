@@ -21,7 +21,7 @@ I'm a Software Engineer
 ## 🛠️ Software Tools
 
 <p align="center"> 
-	<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,eclipse,idea,webstorm,pycharm,postman,photoshop&perline=5" />
+	<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,eclipse,idea,webstorm,pycharm,postman,photoshop,figma&perline=5" />
 </p>
 
 
